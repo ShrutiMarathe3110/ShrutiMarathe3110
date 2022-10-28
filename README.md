@@ -9,4 +9,4 @@
 :point_right: You can also connect with me on [LinkedIn](https://www.linkedin.com/in/shruti-marathe-20a41ba6/).
 
 
-:page_facing_up: You can view my publications on [GoogleScholar](https://scholar.google.com/citations?user=l96VrtEAAAAJ&hl=en)
+:page_facing_up: You can view my publications on [GoogleScholar](https://scholar.google.com/citations?user=l96VrtEAAAAJ&hl=en).
